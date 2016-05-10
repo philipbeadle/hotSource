@@ -1,0 +1,12 @@
+Each card in hot Source is a group of hypotheses
+Find metrics to attach to each card and report
+
+Angular Material application
+
+Using BDD as a way to describe and automate the app.
+
+Scenarios attached to cards as a metrics
+
+Full CD to prod using gitflow triggers
+
+Frictionless delivery
