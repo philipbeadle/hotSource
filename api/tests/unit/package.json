@@ -1,0 +1,14 @@
+{
+  "name": "hot-source-unit-tests",
+  "version": "1.0.0",
+  "description": "mocha unit tests for the API",
+  "main": "postRegister.test.js",
+  "scripts": {
+    "test": "../../node_modules/mocha/.bin/mocha "
+  },
+  "author": "Philip Beadle",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}

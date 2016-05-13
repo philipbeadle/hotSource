@@ -26,7 +26,8 @@ The illustration below shows how we planned the layout and identified the primar
 
 These application use jspm.io: package manager for SystemJS which is built on top of the dynamic ES6 module loader. This allows developers to load any module format (ES6, CommonJS, AMD, and globals).
 
-After you have cloned the repository, you should execute the following commands:
+After you have cloned the repository, you should execute the following commands:  This will set the permissions so Docker can write to the folder, build your docker image, install the dependencies so your code editor works nicely
+and then run your Docker container with your source code mounted in the container.
 * `chmod -R 777 .`
 * `docker build -t hot-source .`
 * `npm install`

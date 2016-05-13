@@ -22,6 +22,11 @@ function UsersDataservice($q, $log) {
           name: 'Delivery',
           avatar: 'round3',
           content: 'src/users/view/points/point3.html'
+        },
+        {
+          name: 'Tasks',
+          avatar: 'round3',
+          content: 'src/users/view/points/point3.html'
         }
       ];
 
